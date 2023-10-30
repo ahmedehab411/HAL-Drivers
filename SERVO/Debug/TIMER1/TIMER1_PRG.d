@@ -1,0 +1,11 @@
+TIMER1/TIMER1_PRG.o TIMER1/TIMER1_PRG.o: ../TIMER1/TIMER1_PRG.c \
+  ../TIMER1/LIB/bitmath.h ../TIMER1/LIB/stdtypes.h ../TIMER1/TIMER1_INT.h \
+  ../TIMER1/TIMER1_REG.h
+
+../TIMER1/LIB/bitmath.h:
+
+../TIMER1/LIB/stdtypes.h:
+
+../TIMER1/TIMER1_INT.h:
+
+../TIMER1/TIMER1_REG.h:
